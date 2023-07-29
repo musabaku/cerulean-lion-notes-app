@@ -7,6 +7,7 @@ const router = express.Router();
 router.get("/notes", NotesController.getNotes);
 
 // TODO: Add a route to create a new note
+router.post("/notes", NotesController.createNote);
 // TODO: Add a route to update a note
 // TODO: Add a route to delete a note
 
