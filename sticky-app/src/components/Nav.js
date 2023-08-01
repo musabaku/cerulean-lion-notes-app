@@ -1,7 +1,7 @@
 export default function Nav() {
   return (
     <div>
-      <h1>Nav Example</h1>
+      <h1>Nav Eaaaaaaaaxample</h1>
     </div>
   );
 }
